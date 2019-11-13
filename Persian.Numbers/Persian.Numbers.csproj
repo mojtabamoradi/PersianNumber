@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Moraba.Persian.Numbers</AssemblyName>
+    <RootNamespace>Moraba.Persian.Numbers</RootNamespace>
+    <PackageId>Moraba.Persian.Numbers.Core</PackageId>
+    <Authors>Mojtaba Moradi (mojtabamoradi.net@outlook.com)</Authors>
+    <Company>Mojtaba Moradi (mojtabamoradi.net@outlook.com)Mojtaba Moradi (mojtabamoradi.net@outlook.com)</Company>
+    <Product>Moraba.Persian.Numbers.Core</Product>
+    <Description>simple and light persian number converter.
+convert persian number to english  and numbers to text.
+hope it will be useful.</Description>
+    <Copyright>Mojtaba Moradi (mojtabamoradi.net@outlook.com) @ 2019</Copyright>
+    <PackageProjectUrl>https://github.com/mojtabamoradi/PersianNumber</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/mojtabamoradi/Moraba/master/logo.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/mojtabamoradi/PersianNumbers</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>persian,persian numbers,convert,numer to text,.net,.netcore</PackageTags>
+    <PackageReleaseNotes>on this version can convert number to text.</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
